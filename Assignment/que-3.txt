@@ -1,0 +1,2 @@
+que.3 ans
+SDLC is focused on software development, while PDLC is focused on product development. SDLC consists of various phases, such as planning, design, coding, testing, and deployment, while PDLC includes additional phases, such as market research, product planning, and marketing.
